@@ -74,7 +74,7 @@
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-body-parameters %}
-{% api-method-parameter name="id" type="string" required=false %}
+{% api-method-parameter name="id" type="integer" required=false %}
  int 예약 목록 아이디 \(필수\)
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
